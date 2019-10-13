@@ -6,6 +6,26 @@
   background-size: cover;
 }
 
+body {
+  background: #f5d9d5;
+  font-family: "Nunito", sans-serif;
+}
+
+ul {
+  list-style: none;
+}
+
+ul img {
+  height: 300px;
+}
+
+h2{
+  margin-left: 25px;
+}
+.underline {
+  text-decoration: underline;
+  font-weight: bolder;
+}
 #mainNavbar{
   font-size: 1.5rem;
   font-weight: 100;
