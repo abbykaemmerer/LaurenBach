@@ -1,0 +1,34 @@
+.landing {
+  background: url(./img/baywatch.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#mainNavbar{
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+
+#mainNavbar .nav-link {
+  color: white;
+}
+
+#mainNavbar .nav-link:hover {
+  color: #ea1c2c;
+}
+
+#mainNavbar .navbar-brand {
+  color: #ea1c2c;
+}
+
+#headingGroup span {
+  color: #ea1c2c;
+}
+
+.navbar.scrolled {
+  background: rgba(222,192,222,.8);
+  transition: background 500ms;
+}
+
